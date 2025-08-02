@@ -15,6 +15,7 @@ In mehreren Projekten und Code-Labs werden Schritt für Schritt wichtige Konzept
 ## 📂 Projektübersicht
   - [Unit 1](#unit-1)
   - [Unit 2](#unit-2)
+  - [Unit 3](#unit-3)
 
 ---
 
@@ -154,6 +155,164 @@ In mehreren Projekten und Code-Labs werden Schritt für Schritt wichtige Konzept
 ---
 
 ### <u>_UNIT 2_</u>
+
+<br>
+
+<table>
+
+  <tr>
+    <th>Projektname</th>
+    <th>Beschreibung</th>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center"><strong>🔨 Tutorial</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">Nicht ins repository übernommen.</td>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center"><strong>🔧 Praxis</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">Nicht ins repository übernommen.</td>
+  </tr>
+  
+  <tr>
+    <td colspan="2" align="center"><strong>🛠️ Eigene Umsetzungen</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="./unit_2/KotlinFundamentals#temperature-converter">Temperature Converter</a>
+    </td>
+    <td>
+      Konvertiere Temperaturangaben mithilfe einer übergebenen Lambda-Funktion:
+      <br>
+      <i>Celsius → Fahrenheit, Kelvin → Celsius, Fahrenheit → Kelvin</i>
+      <br>
+      Schwerpunkt:
+      <strong>Höherordentliche Funktionen</strong>, 
+      <strong>Lambda</strong>, 
+      <strong>Typisierung</strong>, 
+      <strong>String-Formatierung</strong>.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="./unit_2/KotlinFundamentals#mobile-notifications">Mobile Notifications</a>
+    </td>
+    <td>
+      Zeige die Anzahl an Benachrichtigungen an:
+      <br>
+      <i>Bis 99: konkrete Zahl</i>
+      <br>
+      <i>Ab 100: „99+“</i>
+      <br>
+      Schwerpunkt: 
+      <strong>if/else</strong>, 
+      <strong>Vergleichsoperatoren</strong>, 
+      <strong>einfache Ausgabelogik</strong>.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="./unit_2/KotlinFundamentals#internet-profile">Internet Profile</a>
+    </td>
+    <td>
+      Beschreibe ein Profil inklusive optionalem Referrer:
+      <br>
+      <i>Nullprüfung mit <code>?.let</code> und Elvis-Operator</i>
+      <br>
+      <i>Dynamische Beschreibung mit verschachtelter Logik</i>
+      <br>
+      Schwerpunkt:
+      <strong>Nullable Types</strong>, 
+      <strong>Optionales Verhalten</strong>, 
+      <strong>Smart Casts</strong>, 
+      <strong>Lesbarkeit & Formatierung</strong>.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="./unit_2/KotlinFundamentals#movie-ticket-price">Movie Ticket Price</a>
+    </td>
+    <td>
+      Berechne Ticketpreise abhängig vom Alter:
+      <br>
+      <i>Kinder ≤ 12: $15</i>
+      <br>
+      <i>Erwachsene 13–60: $30 (Mo: $25)</i>
+      <br>
+      <i>Senioren ≥ 61: $20</i>
+      <br>
+      Außerhalb des Bereichs: Rückgabe <code>-1</code>
+      <br>
+      Schwerpunkt: 
+      <strong>when</strong>, 
+      <strong>if</strong>, 
+      <strong>Datum / Wochentag</strong>, 
+      <strong>Kontrollfluss</strong>.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="./unit_2/KotlinFundamentals#foldable-phones">Foldable Phones</a>
+    </td>
+    <td>
+      Simuliere ein faltbares Handy mit Vererbung:
+      <br>
+      <i>Bildschirm kann nur eingeschaltet werden, wenn Gerät entfaltet ist</i>
+      <br>
+      Schwerpunkt:
+      <strong>Vererbung</strong>, 
+      <strong>Methodenüberschreibung</strong>, 
+      <strong>Zustandsänderung</strong>, 
+      <strong>Encapsulation</strong>.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="./unit_2/KotlinFundamentals#song-catalog">Song Catalog</a>
+    </td>
+    <td>
+      Datenklasse für Songs inkl. Beliebtheitslogik:
+      <br>
+      <i>Ab 1000 Plays: Song ist populär</i>
+      <br>
+      <i>Ausgabe via <code>toString()</code></i>
+      <br>
+      Schwerpunkt:
+      <strong>Klassen & Properties</strong>, 
+      <strong>Custom Setter</strong>, 
+      <strong>Override</strong>, 
+      <strong>Zustandslogik</strong>.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="./unit_2/KotlinFundamentals#special-auction">Special Auction</a>
+    </td>
+    <td>
+      Berechne Auktionspreis anhand Gebot oder Mindestpreis:
+      <br>
+      <i>Kein Gebot? → „Auction House“ & Mindestpreis</i>
+      <br>
+      Schwerpunkt:
+      <strong>Nullable Objekte</strong>, 
+      <strong>höherordentliche Funktionen</strong>, 
+      <strong>Fallback-Logik</strong>.
+    </td>
+  </tr>
+
+</table>
+
+
+[⬆️](#-projektübersicht)
+
+---
+
+### <u>_UNIT 3_</u>
 
 <br>
 
