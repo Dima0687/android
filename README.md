@@ -169,7 +169,24 @@ In mehreren Projekten und Code-Labs werden Schritt für Schritt wichtige Konzept
     <td colspan="2" align="center"><strong>🔨 Tutorial</strong></td>
   </tr>
   <tr>
-    <td colspan="2" align="center">Nicht ins repository übernommen.</td>
+    <td>
+      <a href="./unit_2/DiceRoller/">Dice Roller</a>
+    </td>
+    <td>
+      Ziel dieser App ist es, eine einfache <strong>Würfel-App</strong> zu bauen, bei der durch einen Button-Klick ein Würfelwurf simuliert wird und ein entsprechendes Bild angezeigt wird.
+      <br><br>
+      Verwendung von <code>@Composable</code>-Funktionen
+      <br>
+      Umgang mit <strong>Zustandsverwaltung (State)</strong> mittels <code>remember</code> und <code>mutableStateOf</code>
+      <br>
+      Verwendung von <code>Image</code> mit Ressourcen aus <code>drawable</code>
+      <br>
+      UI-Aufbau mit <code>Column</code>, <code>Button</code> und <code>Modifier</code>
+      <br>
+      Dynamisches Aktualisieren der UI durch Zustandsänderungen
+      <br>
+      Einsatz von Material Design Komponenten
+    </td>
   </tr>
 
   <tr>
