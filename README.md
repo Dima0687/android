@@ -79,12 +79,12 @@ In mehreren Projekten und Code-Labs werden Schritt für Schritt wichtige Konzept
       Schwerpunkt: 
       <strong>
         Grid-Struktur, 
+      </strong>
         Verwendung von 
         <code>Row</code> und 
         <code>Column</code>, 
         gleichmäßige Verteilung mit 
         <code>weight</code>
-      </strong>
     </td>
   </tr>
 
@@ -94,7 +94,55 @@ In mehreren Projekten und Code-Labs werden Schritt für Schritt wichtige Konzept
   <tr>
     <td><a href="./unit_1/">Business Card App</a></td>
     <td>
-     TODO
+      Die
+      <strong>
+        Business Card App
+      </strong>
+      zeigt ein persönliches Profil im modernen Design mit 
+      <strong>
+        Bild, Name, Titel und Kontaktdaten
+      </strong>
+       - umgesetzt mit 
+      <strong>
+        Jetpack Compose
+      </strong>.
+      <br><br>
+      Schwerpunkte & Learnings: 
+      Verwendung von 
+      <strong>
+        <i>Compose UI-Komponenten</i> 
+      </strong>
+      wie
+      <code>Box</code>, 
+      <code>Column</code>, 
+      <code>Image</code>, 
+      <code>Text</code> 
+      etc.
+      <strong>
+        Erstellung 
+      </strong>
+      eines eigenen 
+      <strong>
+        <i>Shapes</i>
+      </strong>
+      mit 
+      <code>GenericShape</code> und 
+      <code>cubicTo</code>.
+      <strong>
+        Anwendung
+      </strong>
+      von <code>Brush.linearGradient()</code> zur 
+      <strong>
+        Gestaltung eines sanften Farbverlaufs.
+      </strong>
+      <strong>
+        Vertiefung
+      </strong>
+      der Nutzung von 
+      <code>Box</code>-Komponenten & 
+      <strong>
+        Layout-Verständnis
+      </strong>
     </td>
   </tr>
 
