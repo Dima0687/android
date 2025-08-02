@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">BusinessCardApp</string>
+    <string name="dev_name" translatable="false">Dietmar Eisner</string>
+    <string name="sub_title">Junior Software Developer</string>
+    <string name="card_tel" translatable="false">+49 151 504 704 11</string>
+    <string name="card_email" translatable="false">eisner.dietmar.dev@gmail.com</string>
+    <string name="location" translatable="false">21337 Lüneburg</string>
+</resources>
