@@ -193,7 +193,12 @@ In mehreren Projekten und Code-Labs werden Schritt für Schritt wichtige Konzept
     <td colspan="2" align="center"><strong>🔧 Praxis</strong></td>
   </tr>
   <tr>
-    <td colspan="2" align="center">Nicht ins repository übernommen.</td>
+    <td>
+      <a href="./unit_2/Lemonade/">Lemonade</a>
+    </td>
+    <td>
+      Ein interaktives Lernprojekt mit Jetpack Compose: Nutzer klicken sich durch vier Phasen der Limonadenherstellung. Zum Üben von <strong>States</strong>, <strong>Click-Events</strong> und <strong>UI-Wechseln</strong>.
+    </td>
   </tr>
   
   <tr>
