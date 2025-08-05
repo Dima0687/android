@@ -348,6 +348,29 @@ In mehreren Projekten und Code-Labs werden Schritt für Schritt wichtige Konzept
   <tr>
     <td colspan="2" align="center"><strong>🔨 Tutorial</strong></td>
   </tr>
+  <tr>
+    <td>
+      <a href="./unit_3/Affirmations/">Affirmations App</a>
+    </td>
+    <td>
+      Ziel dieser App ist es, eine <strong>Liste positiver Affirmationen</strong> anzuzeigen - jede mit einem zugehörigen Bild.
+      <br><br>
+      Verwendung von <code>@Composable</code>-Funktionen zum Aufbau der UI
+      <br>
+      Arbeiten mit <strong>LazyColumn</strong> zur Darstellung scrollbarer Listen
+      <br>
+      Strukturierung der UI mit <code>Card</code>, <code>Column</code>, <code>Image</code> und <code>Text</code>
+      <br>
+      einbindung von Ressourcenbildern aus <code>drawable</code> via <code>painterResource</code>
+      <br>
+      Dynamisches Rendering von Listeninhalten durch <code>items()</code> in Compose
+      <br>
+      Nutzung von <code>Modifier</code> zur Layoutgestaltung und Padding
+      <br>
+      Anwendung von <strong>Material Design 3</strong> Komponenten und Themes
+    </td>
+  </tr>
+
 
   <tr>
     <td colspan="2" align="center"><strong>🔧 Praxis</strong></td>
