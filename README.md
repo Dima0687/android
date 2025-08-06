@@ -374,6 +374,28 @@ In mehreren Projekten und Code-Labs werden Schritt für Schritt wichtige Konzept
 
   <tr>
     <td colspan="2" align="center"><strong>🔧 Praxis</strong></td>
+  </tr>  
+  <tr>
+    <td>
+      <a href="./unit_3/Courses/">Courses Grid App</a>
+    </td>
+    <td>
+      In dieser App wird eine <strong>zweispaltige Rasteransicht</strong> (Grid) verwendet, um eine Liste von Kursen anzuzeigen – jedes mit Bild, Titel und Kursanzahl.
+      <br><br>
+      Umsetzung mit <code>LazyVerticalGrid</code> aus <code>Foundation</code> zur Anzeige eines flexiblen Grids  
+      <br>
+      Einsatz von <code>Card</code>, <code>Row</code>, <code>Column</code>, <code>Image</code> und <code>Text</code> zur UI-Struktur  
+      <br>
+      Dynamisches Laden der Daten über eine eigene <strong>DataSource</strong>  
+      <br>
+      Einbindung von Ressourcen via <code>stringResource</code> und <code>painterResource</code>  
+      <br>
+      Darstellung eines Icons mit Text (Kursanzahl)  
+      <br>
+      Nutzung von <code>Modifier</code> zur Feinanpassung von Layout, Padding und Höhe  
+      <br>
+      Volle Umsetzung im <strong>Material Design 3</strong> Stil
+    </td>
   </tr>
   
   <tr>
