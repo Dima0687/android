@@ -200,7 +200,28 @@ In mehreren Projekten und Code-Labs werden Schritt für Schritt wichtige Konzept
       Ein interaktives Lernprojekt mit Jetpack Compose: Nutzer klicken sich durch vier Phasen der Limonadenherstellung. Zum Üben von <strong>States</strong>, <strong>Click-Events</strong> und <strong>UI-Wechseln</strong>.
     </td>
   </tr>
-  
+  <tr>
+    <td>
+      <a href="./unit_2/TipTime/">Tip Time</a>
+    </td>
+    <td>
+      Ziel dieser App ist es, einen einfachen <strong>Trinkgeldrechner</strong> zu entwickeln, der auf Basis des Rechnungsbetrags und des gewählten Prozentsatzes den Trinkgeldbetrag berechnet.
+      <br><br>
+      Verwendung von <code>@Composable</code>-Funktionen
+      <br>
+      Umgang mit <strong>Zustandsverwaltung (State)</strong> durch <code>remember</code> und <code>mutableStateOf</code>
+      <br>
+      Dynamische UI-Anpassung je nach Benutzereingabe
+      <br>
+      Verwendung von <code>TextField</code>, <code>Text</code>, <code>Switch</code> und <code>Icon</code> aus dem <strong>Material 3</strong>-Toolkit
+      <br>
+      Umsetzung einer Rundungsfunktion (optional)
+      <br>
+      Best Practices für Layout mit <code>Column</code>, <code>Row</code>, <code>Modifier</code> und Scroll-Verhalten
+      <br>
+      Lokalisierte Währungsanzeige mit <code>NumberFormat</code>
+    </td>
+  </tr>
   <tr>
     <td colspan="2" align="center"><strong>🛠️ Eigene Umsetzungen</strong></td>
   </tr>
