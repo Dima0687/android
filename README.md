@@ -347,7 +347,26 @@ In mehreren Projekten und Code-Labs werden Schritt für Schritt wichtige Konzept
       <strong>Fallback-Logik</strong>.
     </td>
   </tr>
-
+  <tr>
+      <td>
+        <a href="./unit_2/ArtworkSpace">Artwork Space</a>
+      </td>
+      <td>
+        Interaktive Galerie-App mit Vollbildanzeige und Detailkarten:
+        <br>
+        <i>Bilder in einer LazyColumn mit Kategorien, Stärken, Schattenseiten und Analyse</i>
+        <br>
+        <i>Umschaltbare Interpretation im Vollbild-Dialog</i>
+        <br>
+        Schwerpunkt:
+        <strong>Jetpack Compose</strong>, 
+        <strong>LazyColumn</strong>, 
+        <strong>Dialoge</strong>, 
+        <strong>State Handling mit <code>remember</code></strong>, 
+        <strong>Material Design</strong>, 
+        <strong>UI-Komposition & Wiederverwendung</strong>.
+      </td>
+  </tr>
 </table>
 
 
