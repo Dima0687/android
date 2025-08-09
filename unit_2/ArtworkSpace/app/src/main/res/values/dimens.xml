@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_height">100dp</dimen>
+    <dimen name="card_padding">20dp</dimen>
+    <dimen name="card_rounded_corner">8dp</dimen>
+    <dimen name="card_stroke_width">2dp</dimen>
+    <dimen name="inner_card_padding">8dp</dimen>
+</resources>

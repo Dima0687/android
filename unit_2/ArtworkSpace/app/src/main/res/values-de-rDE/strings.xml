@@ -1,0 +1,419 @@
+<resources>
+    <string name="app_name">Artwork</string>
+    <string name="title">Tiefenpsychologische Deutung</string>
+
+
+    <!-- ========================= -->
+    <!-- =      ADDITIONALS      = -->
+    <!-- ========================= -->
+
+    <string name="info">Drücke auf das Bild für mehr Information!</string>
+
+
+    <!-- ==================== -->
+    <!-- =      SCREEN      = -->
+    <!-- ==================== -->
+
+    <plurals name="images">
+        <item quantity="one">%d Bild</item>
+        <item quantity="other">%d Bilder</item>
+    </plurals>
+
+
+    <!-- ==================== -->
+    <!-- =      DIALOG      = -->
+    <!-- ==================== -->
+
+    <string name="hide_interpretation">Schließen</string>
+    <string name="show_interpretation">Zeige Interpretation</string>
+
+
+    <!-- ==================== -->
+    <!-- =      TRAITS      = -->
+    <!-- ==================== -->
+
+    <string name="card_title">Analyse zu \"%s\" </string>
+    <string name="strengths">Stärken</string>
+    <string name="shadows">Schwächen</string>
+
+
+    <!-- ==================== -->
+    <!-- =    CATEGORIES    = -->
+    <!-- ==================== -->
+
+    <!-- ============================ -->
+    <!-- = Categories    | Index    = -->
+    <!-- ============================ -->
+    <!-- = Abstrakt         |     0 = -->
+    <!-- = Architektur      |     1 = -->
+    <!-- = Weltraum         |     2 = -->
+    <!-- = Klassisch        |     3 = -->
+    <!-- = Fantasie         |     4 = -->
+    <!-- = Blumen           |     5 = -->
+    <!-- = Liebe            |     6 = -->
+    <!-- = Natur            |     7 = -->
+    <!-- = geringes Polygon |     8 = -->
+    <!-- = Symbolic         |     9 = -->
+    <!-- = Animal           |    10 = -->
+    <!-- ============================ -->
+
+    <string-array name="categories">
+        <item>Abstrakt</item>
+        <item>Architektur</item>
+        <item>Weltraum</item>
+        <item>Klassisch</item>
+        <item>Fantasie</item>
+        <item>Blumen</item>
+        <item>Liebe</item>
+        <item>Natur</item>
+        <item>geringes Polygon</item>
+        <item>Symbolisch</item>
+        <item>Tiere</item>
+    </string-array>
+
+
+    <!-- ==================== -->
+    <!-- =     ANALYSIS     = -->
+    <!-- ==================== -->
+
+    <!--  Abstract  -->
+    <string name="abstract_analysis">
+        Wer sich zu abstrakten, farbintensiven Bildern hingezogen fühlt, besitzt meist ein hohes
+        Maß an emotionaler Intuition und ein Bedürfnis, Komplexität nicht immer erklären zu müssen.
+        Es geht hier nicht um Logik, sondern um Wirkung. Diese Menschen spüren Farben, Energien,
+        Schwingungen. Sie verarbeiten viel im Unbewussten und geben sich dem Fluss des Lebens eher
+        hin als ihn kontrollieren zu wollen.
+        Ihr Blick für symbolische Zusammenhänge erlaubt es ihnen, in Bildern zu denken –
+        und im scheinbar Zufälligen Bedeutung zu erkennen.
+    </string>
+
+    <!--  Architecture  -->
+    <string name="architecture_analysis">
+        Eine Vorliebe für architektonische Kunst deutet auf ein Bedürfnis nach Ordnung,
+        Richtung und Überblick. Die Spirale kann für Transformation stehen – wer so etwas schätzt,
+        ist meist reflektierend, sucht Entwicklung, Erkenntnis.
+    </string>
+
+    <!--  Astronaut  -->
+    <string name="astronaut_analysis">
+        Weltraum = Weite. Astronaut = Pionier. Licht = Erkenntnis.
+        Menschen, die solche Bilder lieben, sind Grenzgänger, Entdeckerinnen, Träumerinnen.
+        Sie suchen das Unbekannte, das Neue – oft auch in sich selbst. Hier finden sich
+        Persönlichkeiten mit starkem Zukunftsbezug, Spiritualität oder Wissenschaftsfaszination.
+    </string>
+
+    <!--  Classic  -->
+    <string name="classic_analysis">
+        Wer klassische Malerei schätzt, sucht oft Ruhe, Ordnung und Harmonie.
+        Diese Menschen neigen zur Nostalgie, zum Bedürfnis, Vergänglichkeit zu versöhnen.
+        Impressionistische Bilder sprechen besonders Menschen an, die sich in Zwischenzuständen
+        wohlfühlen – in Momenten, die noch nicht ganz greifbar sind, aber schön.
+    </string>
+
+    <!--  Fantasy and Mystic  -->
+    <string name="fantasy_analysis">
+        Ein Mensch, dem solche Bilder gefallen, sehnt sich nach Transzendenz – nach etwas „mehr“
+        als dem rationalen Alltag. Es geht um das Bedürfnis, die Realität durch kreative Fantasie
+        zu erweitern. Häufig sind solche Menschen introvertiert, sehr empathisch, detailverliebt
+        und haben ein starkes Innenleben. Sie sind häufig kreativ tätig oder zumindest gedanklich
+        oft in anderen Welten unterwegs. Diese Personen denken nicht nur „outside the box“, sie
+        leben oft außerhalb der Box – zumindest innerlich.
+    </string>
+
+    <!--  Flower  -->
+    <string name="flower_analysis">
+        Die Rose als archetypisches Symbol für Liebe, Schönheit und Schmerz. Wer sich für solch
+        zarte, skizzenhafte Darstellungen interessiert, ist oft ein sensibler Mensch mit Sinn für
+        Ästhetik – aber auch jemand, der die Vergänglichkeit hinter der Schönheit spürt.
+    </string>
+
+    <!--  Heart  -->
+    <string name="heart_analysis">
+        Das Herz im Sand ist ein sehr symbolisches Motiv – Liebe, die vergeht? Oder Liebe,
+        die im Vergänglichen wurzelt? Wer sich hiervon angesprochen fühlt, ist meist sehr
+        beziehungsorientiert, verletzlich, aber auch voller Hoffnung.
+    </string>
+
+    <!--  Nature  -->
+    <string name="nature_analysis">
+        Hier geht es um Sehnsucht nach Harmonie, Rückverbindung zur Natur und vielleicht ein
+        Bedürfnis nach Entschleunigung. Wer solche Bilder liebt, trägt häufig eine idealisierte
+        Vorstellung vom "guten Leben" in sich – Frieden, Stille, Weite.
+    </string>
+
+    <!--  Poly  -->
+    <string name="poly_analysis">
+        Wer Geometrie in der Natur schätzt, liebt die Verbindung von Struktur und Natürlichkeit.
+        Diese Personen wollen Ordnung im Chaos schaffen, sie suchen Klarheit im Gefühl.
+        Meist handelt es sich um kreative Analytiker, die Emotion und Verstand zu verbinden
+        versuchen.
+    </string>
+
+    <!--  Symbolic  -->
+    <string name="symbolic_analysis">
+        Dieses Bild vereint Natur, Romantik und Urbanität. Menschen, die so etwas anzieht, leben
+        in mehreren Welten. Sie suchen die Balance zwischen Freiheit (Meer), Emotion (Mond) und
+        Struktur (Stadt). Das ist der Archetyp des Brückenbauers.
+    </string>
+
+    <!--  Wolf  -->
+    <string name="wolf_analysis">
+        Dieses Bild spricht den Archetyp des einsamen Suchers an. Menschen, die solche Bilder mögen,
+        sind häufig starke Einzelgänger – unabhängig, freiheitsliebend, mit einem ausgeprägten Sinn
+        für Gerechtigkeit. Gleichzeitig tragen sie oft tiefe seelische Wunden, die ihnen eine
+        innere Tiefe verleihen.
+    </string>
+
+
+    <!-- ==================== -->
+    <!-- =     STRENGTHS    = -->
+    <!-- ==================== -->
+
+    <!--  Abstract  -->
+    <string-array name="abstract_strengths">
+        <item>Feinsinn</item>
+        <item>Sinn für Schönheit</item>
+        <item>romantische Ader</item>
+    </string-array>
+
+    <!--  Architecture  -->
+    <string-array name="architecture_strengths">
+        <item>Selbstreflexion</item>
+        <item>analytisches Denken</item>
+        <item>Wille zur Veränderung</item>
+    </string-array>
+
+    <!--  Astronaut  -->
+    <string-array name="astronaut_strengths">
+        <item>Innovationsgeist</item>
+        <item>Mut</item>
+        <item>Weitblick</item>
+    </string-array>
+
+    <!--  Classic  -->
+    <string-array name="classic_strengths">
+        <item>Feinsinn</item>
+        <item>Sinn für Schönheit</item>
+        <item>romantische Ader</item>
+    </string-array>
+
+    <!--  Fantasy and Mystic  -->
+    <string-array name="fantasy_strengths">
+        <item>Tiefer Glaube an Sinnzusammenhänge</item>
+        <item>Reichhaltige Vorstellungskraft</item>
+        <item>Intuitive Menschenkenntnis</item>
+    </string-array>
+
+    <!--  Flower  -->
+    <string-array name="flower_strengths">
+        <item>Sinnlichkeit</item>
+        <item>Romantik</item>
+        <item>Ausdruckskraft</item>
+    </string-array>
+
+    <!--  Heart  -->
+    <string-array name="heart_strengths">
+        <item>Liebesfähigkeit</item>
+        <item>Sentimentalität</item>
+        <item>emotionale Tiefe</item>
+    </string-array>
+
+    <!--  Nature  -->
+    <string-array name="nature_strengths">
+        <item>Achtsamkeit</item>
+        <item>Erdung</item>
+        <item>emotionale Intelligenz</item>
+    </string-array>
+
+    <!--  Poly  -->
+    <string-array name="poly_strengths">
+        <item>strukturierte Kreativität</item>
+        <item>Balance-orientiert</item>
+        <item>zukunftsgerichtet</item>
+    </string-array>
+
+
+    <!--  Symbolic  -->
+    <string-array name="symbolic_strengths">
+        <item>Vielschichtigkeit</item>
+        <item>Empathie</item>
+        <item>Anpassungsfähigkeit</item>
+    </string-array>
+
+    <!--  Wolf  -->
+    <string-array name="wolf_strengths">
+        <item>Mut</item>
+        <item>Selbstständigkeit</item>
+        <item>Loyalität</item>
+    </string-array>
+
+
+    <!-- ==================== -->
+    <!-- =     SHADOWS      = -->
+    <!-- ==================== -->
+
+    <!--  Abstract  -->
+    <string-array name="abstract_shadows">
+        <item>Idealisierung der Vergangenheit</item>
+        <item>Tendenz zum Rückzug</item>
+    </string-array>
+
+    <!--  Architecture  -->
+    <string-array name="architecture_shadows">
+        <item>Grübeln</item>
+        <item>Perfektionismus</item>
+        <item>Kontrollbedürfnis</item>
+    </string-array>
+
+    <!--  Astronaut  -->
+    <string-array name="astronaut_shadows">
+        <item>Entwurzelung</item>
+        <item>Einsamkeit</item>
+        <item>Realitätsflucht</item>
+    </string-array>
+
+    <!--  Classic  -->
+    <string-array name="classic_shadows">
+        <item>Idealisierung der Vergangenheit</item>
+        <item>Tendenz zum Rückzug</item>
+    </string-array>
+
+    <!--  Fantasy and Mystic  -->
+    <string-array name="fantasy_shadows">
+        <item>Flucht vor der Realität</item>
+        <item>Vermeidung von Konfrontation mit Schwierigen Lebensaspekten</item>
+    </string-array>
+
+    <!--  Flower  -->
+    <string-array name="flower_shadows">
+        <item>Melancholie</item>
+        <item>Idealisierung von Beziehungen</item>
+    </string-array>
+
+    <!--  Heart  -->
+    <string-array name="heart_shadows">
+        <item>Angst vor Verlust</item>
+        <item>Abhängigkeit</item>
+        <item>Bedürftigkeit</item>
+    </string-array>
+
+    <!--  Nature  -->
+    <string-array name="nature_shadows">
+        <item>Rückzug in Fantasiewelten</item>
+        <item>Konfliktscheu</item>
+    </string-array>
+
+    <!--  Poly  -->
+    <string-array name="poly_shadows">
+        <item>Tendenz zur Überkontrolle</item>
+        <item>Tendenz zur rationaler Distanz.</item>
+    </string-array>
+
+    <!--  Symbolic  -->
+    <string-array name="symbolic_shadows">
+        <item>Identitätsdiffusion</item>
+        <item>Überforderung durch Ambivalenzen</item>
+    </string-array>
+
+    <!--  Wolf  -->
+    <string-array name="wolf_shadows">
+        <item>emotionale Isolation</item>
+        <item>innere Rastlosigkeit</item>
+    </string-array>
+
+
+    <!-- =============================== -->
+    <!-- =     CONTENT DESCRIPTION     = -->
+    <!-- =============================== -->
+
+    <!-- Abstract -->
+    <string name="abstract_001_content_description">
+        Dichte, kräftige Farbstriche in Rot, Blau und Gelb, die sich wie energische Wellen
+        kreuzen und überlagern, als würde Bewegung eingefroren.
+    </string>
+    <string name="abstract_002_content_description">
+        Sanft verlaufende Aquarellflächen in Pastelltönen, die ineinanderfließen wie Wolken in der Morgendämmerung – erinnert an eine leuchtende Farbexplosion.
+    </string>
+
+    <!-- Architecture -->
+    <string name="architecture_001_content_description">
+        Ein spiralförmiger Handlauf aus glattem Stein, kunstvoll geschwungen,
+        der sich elegant nach unten windet wie eine Skulptur.
+    </string>
+
+    <!-- Astro -->
+    <string name="astro_001_content_description">
+        Ein Astronaut in weißem Raumanzug steht vor einer hoch aufragenden Rakete.
+        Dahinter ein fremdartiger Hintergrund, der an ein Wabennetz aus Wasser und glühender
+        Lava erinnert – wie eine Landschaft auf einem fremden Planeten.
+    </string>
+
+    <!-- Classic -->
+    <string name="classic_001_content_description">
+        Ein Farmer auf einer hölzernen Kutsche, gezogen von einem Pferd, fährt auf einem Feldweg
+        in Richtung eines großen, hellen Mondes. Neben dem Weg steht ein mächtiger Baum.
+        Der Mond leuchtet mit einer rötlichen Aura, als brenne in weiter Ferne ein Wald.
+    </string>
+
+    <!-- Fantasy -->
+    <string name="fantasy_001_content_description">
+        Ein schmaler, klarer Bach schlängelt sich durch eine von hohen Bäumen gesäumte
+        Landschaft. Das Licht bricht sanft durch das Blätterdach, wie in einer Szene aus einem
+        Märchen.
+    </string>
+    <string name="fantasy_002_content_description">
+        Eine surreale Szenerie: Ein kleiner Wasserfall stürzt von einer steilen Klippe herab.
+        Im Vordergrund eine Pfütze, von Felsen und moosbewachsenen Bäumen umgeben,
+        die das Wasser wie in einem geheimen Garten einrahmen.
+    </string>
+
+    <!-- Flower -->
+    <string name="flower_001_content_description">
+        Minimalistische Linienzeichnung mehrerer geöffneten Rosen. Die zu einem Blumenstrauß
+        geformt sind.
+    </string>
+
+    <!-- Heart -->
+    <string name="heart_001_content_description">
+        Ein fast zerbrochenes Herz aus grauem Stein liegt halb im Sand.
+        Aus seinem Inneren lodert ein warmes, orangefarbenes Feuer, das den Eindruck erweckt,
+        als sei es gerade wieder zum Leben erweckt worden.
+    </string>
+
+    <!-- Nature -->
+    <string name="nature_001_content_description">
+        Ein weitläufiges Feld voller leuchtender Tulpen erstreckt sich vor einem hohen Berg.
+        Hinter dem Gipfel geht die Sonne auf und taucht Landschaft und Himmel in ein goldenes
+        Licht, das lange Schatten wirft.
+    </string>
+    <string name="nature_002_content_description">
+        Ein ruhiger See erstreckt sich bis zum Horizont. Links ragen Felsen mit alten Bäumen empor,
+        rechts neigt sich ein Bonsai sanft über das Wasser, fast so, als wolle er den darüber
+        hängenden Mond berühren. Vögel ziehen ihre Bahnen, während ein Segelboot unterhalb des
+        Mondes vorbeifährt.
+    </string>
+    <string name="nature_003_content_description">
+        Ein sanft fließender Fluss, gesäumt von üppigen Bäumen, eingefangen im warmen, goldenen
+        Abendlicht. Die Wasseroberfläche spiegelt Himmel und Blätter wie ein glatter Spiegel.
+    </string>
+
+    <!-- Poly -->
+    <string name="poly_001_content_description">
+        Low-Poly-Landschaft: Im Vordergrund steht ein Apfelbaum mit runden, geometrischen Blättern.
+        Dahinter führt ein Tunnel oder eine Brücke über den Fluss. In der Ferne,
+        jenseits des Wassers, erkennt man Häuser.
+    </string>
+
+    <!-- Symbolic -->
+    <string name="symbolic_001_content_description">
+        Ein leuchtender Vollmond hängt über einer Küstenstadt. Unten glitzert das Meer,
+        während die Stadt als dunkle Silhouette im Kontrast zum Licht steht.
+    </string>
+
+    <!-- Wolf -->
+    <string name="wolf_001_content_description">
+        Ein stilisierter, grafischer Wolf steht im tiefen Schnee und heult zum Himmel.
+        Sein Körper hebt sich scharf von der kalten, bläulichen Umgebung ab.
+    </string>
+
+</resources>
