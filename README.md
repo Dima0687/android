@@ -437,6 +437,27 @@ In mehreren Projekten und Code-Labs werden Schritt für Schritt wichtige Konzept
       Volle Umsetzung im <strong>Material Design 3</strong> Stil
     </td>
   </tr>
+
+  <tr>
+    <td>
+      <a href="./unit_3/Woof/">Woof App</a>
+    </td>
+    <td>
+      Diese App zeigt eine Liste von Hunden mit Bild, Namen und Alter.
+      <br><br>
+      Umsetzung mit <code>LazyColumn</code> zur Darstellung der Liste  
+      <br>
+      Einsatz von <code>Card</code>, <code>Row</code>, <code>Column</code>, <code>Image</code> und <code>Text</code> zur UI-Struktur  
+      <br>
+      Nutzung eines eigenen <strong>Material Design 3 Themes</strong> mit Light- und Dark-Varianten  
+      <br>
+      Nutzung von Ressourcen über <code>stringResource</code> und <code>painterResource</code>  
+      <br>
+      Edge-to-Edge Darstellung mit TopAppBar  
+      <br>
+      Saubere Trennung von UI, Daten und Theme
+    </td>
+  </tr>
   
   <tr>
     <td colspan="2" align="center"><strong>🛠️ Eigene Umsetzungen</strong></td>
