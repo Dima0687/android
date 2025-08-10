@@ -458,6 +458,28 @@ In mehreren Projekten und Code-Labs werden Schritt für Schritt wichtige Konzept
       Saubere Trennung von UI, Daten und Theme
     </td>
   </tr>
+
+  <tr>
+    <td>
+      <a href="./unit_3/Superhero/">Superhero</a>
+    </td>
+    <td>
+      Diese App zeigt eine Liste von Superhelden mit Bild, Namen und Beschreibung.
+      <br><br>
+      Verwendung von <code>LazyColumn</code> zur dynamischen und performanten Anzeige langer <code>Listen</code>
+      <br>
+      Aufbau komplexerer Kartenlayouts mit <code>Row</code>, <code>Column</code> und <code>Box</code> für flexible UI-Strukturen
+      <br>
+      Einbindung von Bild- und Textressourcen via <code>painterResource()</code> und <code>stringResource()</code>
+      <br>
+      Nutzung von <code>Material Design 3</code> Komponenten mit individuellen Farb- und Formanpassungen
+      <br>
+      Erlernen von <code>TopAppBar</code>-Integration für ein einheitliches App-Layout
+      <br>
+      Fokus auf saubere Trennung von UI-Elementen und Datenmodell
+      <br>
+    </td>
+  </tr>
   
   <tr>
     <td colspan="2" align="center"><strong>🛠️ Eigene Umsetzungen</strong></td>
