@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Daily Strong</string>
+    <string name="affirmation_picker">Affirmation Picker</string>
+    <string name="close_affirmation_picker">Close</string>
+
+    <!-- =================== -->
+    <!--     AFFIRMATIONS    -->
+    <!-- =================== -->
+
+    <string name="affirmation_day_01">Today, I have the power to make changes.</string>
+    <string name="affirmation_day_02">My goals reflect my values.</string>
+    <string name="affirmation_day_03">I am capable of growing—every single day.</string>
+    <string name="affirmation_day_04">Challenges show me what I am made of.</string>
+    <string name="affirmation_day_05">I trust my inner compass.</string>
+    <string name="affirmation_day_06">I am allowed to make mistakes – and learn from them.</string>
+    <string name="affirmation_day_07">My voice counts. I express my truth.</string>
+    <string name="affirmation_day_08">Today, I choose kindness—towards myself and others.</string>
+    <string name="affirmation_day_09">I give myself space to breathe.</string>
+    <string name="affirmation_day_10">I am enough—just as I am. </string>
+    <string name="affirmation_day_11">Today, I set clear priorities.</string>
+    <string name="affirmation_day_12">I let go of what no longer serves me.</string>
+    <string name="affirmation_day_13">I listen to my gut feeling.</string>
+    <string name="affirmation_day_14">I am creative – solutions are waiting for me.</string>
+    <string name="affirmation_day_15">I am in balance with myself and my environment.</string>
+    <string name="affirmation_day_16">I choose clarity over distraction.</string>
+    <string name="affirmation_day_17">I honor my achievements—big and small.</string>
+    <string name="affirmation_day_18">I trust the process.</string>
+    <string name="affirmation_day_19">I am proud of my journey – no matter how rocky it may be.</string>
+    <string name="affirmation_day_20">I learn something new every day.</string>
+    <string name="affirmation_day_21">I am open to the good things that are yet to come.</string>
+    <string name="affirmation_day_22">I deserve love – unconditionally.</string>
+    <string name="affirmation_day_23">I give myself the breaks my body and soul need.</string>
+    <string name="affirmation_day_24">I deserve respect – including from myself.</string>
+    <string name="affirmation_day_25">I consciously shape my day.</string>
+    <string name="affirmation_day_26">I trust my intuition.</string>
+    <string name="affirmation_day_27">I consciously acknowledge my successes.</string>
+    <string name="affirmation_day_28">I stand up for myself and for the vision that drives me.</string>
+    <string name="affirmation_day_29">I am grateful – for every experience.</string>
+    <string name="affirmation_day_30">I am courageous – no matter what comes.</string>
+    <string name="affirmation_day_31">I am ready – for the next step.</string>
+
+
+    <!-- =================== -->
+    <!--        DAYS         -->
+    <!-- =================== -->
+
+    <string name="day_01">Day 01</string>
+    <string name="day_02">Day 02</string>
+    <string name="day_03">Day 03</string>
+    <string name="day_04">Day 04</string>
+    <string name="day_05">Day 05</string>
+    <string name="day_06">Day 06</string>
+    <string name="day_07">Day 07</string>
+    <string name="day_08">Day 08</string>
+    <string name="day_09">Day 09</string>
+    <string name="day_10">Day 10</string>
+    <string name="day_11">Day 11</string>
+    <string name="day_12">Day 12</string>
+    <string name="day_13">Day 13</string>
+    <string name="day_14">Day 14</string>
+    <string name="day_15">Day 15</string>
+    <string name="day_16">Day 16</string>
+    <string name="day_17">Day 17</string>
+    <string name="day_18">Day 18</string>
+    <string name="day_19">Day 19</string>
+    <string name="day_20">Day 20</string>
+    <string name="day_21">Day 21</string>
+    <string name="day_22">Day 22</string>
+    <string name="day_23">Day 23</string>
+    <string name="day_24">Day 24</string>
+    <string name="day_25">Day 25</string>
+    <string name="day_26">Day 26</string>
+    <string name="day_27">Day 27</string>
+    <string name="day_28">Day 28</string>
+    <string name="day_29">Day 29</string>
+    <string name="day_30">Day 30</string>
+    <string name="day_31">Day 31</string>
+
+
+
+</resources>
