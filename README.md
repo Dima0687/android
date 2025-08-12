@@ -485,6 +485,29 @@ In mehreren Projekten und Code-Labs werden Schritt für Schritt wichtige Konzept
     <td colspan="2" align="center"><strong>🛠️ Eigene Umsetzungen</strong></td>
   </tr>
 
+  <tr>
+  <td>
+    <a href="./unit_3/ThirtyDaysApp/">ThirtyDaysApp</a>
+  </td>
+  <td>
+    Diese App zeigt täglich eine positive Affirmation mit dazugehörigem Bild.
+    <br><br>
+    Die Affirmation ändert sich jeden Tag automatisch, kann aber auch über ein Action Icon in der TopAppBar manuell ausgewählt werden – nur zur Ansicht, beim Neustart der App wird die Auswahl zurückgesetzt.
+    <br>
+    Zusätzlich gibt es eine Möglichkeit, den Tageszähler manuell auf den aktuellen Tag zurückzusetzen.
+    <br>
+    Umsetzung mit <code>LazyColumn</code> und <code>@Composable</code>-Funktionen
+    <br>
+    Einsatz von <code>Card</code>, <code>Column</code>, <code>Image</code> und <code>Text</code>
+    <br>
+    Nutzung von <code>painterResource</code> für Bilder aus <code>drawable</code>
+    <br>
+    Dynamisches Rendering durch <code>items()</code> in Compose
+    <br>
+    Verwendung von <strong>Material Design 3</strong> Komponenten und Themes
+  </td>
+</tr>
+
 </table>
 
 
